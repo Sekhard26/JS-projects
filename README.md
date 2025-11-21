@@ -66,7 +66,5 @@ JS-projects/
  - Event listeners
  - Basic JavaScript logic
  - Working with APIs (Wikipedia API)
-
-HTML/CSS layout
-
-Organizing small projects
+ - HTML/CSS layout
+ - Organizing small projects
