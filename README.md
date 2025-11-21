@@ -6,30 +6,30 @@ Each project is inside its own folder and can be opened directly in the browser.
 ## Projects Included
 1. Tic Tac Toe
 
-A simple two-player Tic-Tac-Toe game built using:
+  A simple two-player Tic-Tac-Toe game built using:
 
- - HTML
- - CSS
- - JavaScript
+   - HTML
+   - CSS
+   - JavaScript
 
--  Features:
+   Features:
 
-  - Interactive 3x3 grid
-  - Player turn switching
-  - Win detection
-  - Draw match check
-  - Basic UI
+    - Interactive 3x3 grid
+    - Player turn switching
+    - Win detection
+    - Draw match check
+    - Basic UI
 
 2. Wikipedia Search App
 
-A beginner-level search app that fetches results from Wikipedia using their public API.
+  A beginner-level search app that fetches results from Wikipedia using their public API.
 
-- Features:
+  - Features:
 
-  - Search bar
-  - Fetch and display live Wikipedia search results
-  - Clickable links to full Wikipedia pages
-  - Error handling for empty or invalid searches
+    - Search bar
+    - Fetch and display live Wikipedia search results
+    - Clickable links to full Wikipedia pages
+    - Error handling for empty or invalid searches
 
 ## How to Run These Projects
 
